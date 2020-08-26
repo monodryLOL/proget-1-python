@@ -6,6 +6,7 @@ Les commandes sont :
 					-beug
 					-cls
 					-info
+					-exit
 """
 import os
 import ctypes
