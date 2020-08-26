@@ -1,4 +1,12 @@
 #coding:utf8
+"""
+Les commandes sont :
+					-Bonjours
+					-yo
+					-beug
+					-cls
+					-info
+"""
 import os
 import ctypes
 
